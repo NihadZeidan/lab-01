@@ -1,11 +1,11 @@
-*{
-    box-sizing:border-box;
+
+
+body {
+    text-align: center;
    
 }
 
 div {
     display: inline-block;
-    text-align: center;
-    border: solid black 1px;
-    margin: 0;
+    border: solid black;
 }

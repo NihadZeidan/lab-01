@@ -1,88 +1,127 @@
 
-@media (min-width: 480px) and (max-width: 768px){
+@media (min-width: 480px) and (max-width: 767px) {
       
-   div#b {
-        background-color: rgb(33, 33, 95);
-    }
+#a{
+    width: 480px;
+    height: 75px;
+    background-color: rgb(33, 33, 95);}
+
+#b{
+    width: 480px;
+    height: 150px;
+    background-color: rgb(57, 57, 141);
+}
+
+#c{
+    width: 480px;
+    height: 125px;
+    background-color: rgb(95, 95, 206);
+}
+
+#d{
+    width: 480px;
+    height: 125px;
+    background-color: rgb(33, 33, 95);
+}
+
+#e{
+    width: 240px;
+    height: 250px;
+    background-color: rgb(6, 6, 49);
+}
+
+#f{
+    width: 240px;
+    height: 250px;
+    background-color: rgb(169, 169, 170);
     
+}
+
+#g{
+    width: 240px;
+    height: 250px;
+    background-color: rgb(9, 9, 10);
+}
+
+#h{
+    width: 240px;
+    height: 250px;
+    background-color: rgb(33, 95, 92);
+}
+
+#i{
+    width: 480px;
+    height: 80px;
+    background-color: rgb(132, 132, 247);
 }
 
 
 
-@media (min-width: 960px) {
-    
+}
+
+
+
+@media (min-width: 960px)  {
+  
+ 
 #a{
     width: 960px;
     height: 100px;
-    background-color: grey;
+    background-color: rgb(224, 154, 24);
 }
 
 #b{
     width: 200px;
     height: 600px;
-    background-color: grey;
+    background-color: rgb(187, 181, 92);
 }
 
 #c{
     width: 380px;
     height: 200px;
-    background-color: grey;
+    background-color: rgb(192, 105, 47);
 }
 
 #d{
     width: 380px;
     height: 200px;
-    background-color: grey;
+    background-color: rgb(51, 33, 25);
 }
 
 #e{
     width: 190px;
     height: 250px;
-    background-color: grey;
+    background-color: rgb(197, 11, 51);
 }
 
 #f{
     width: 190px;
     height: 250px;
-    background-color: grey;
+    background-color: rgb(6, 6, 228);
 }
 
 #g{
     width: 190px;
     height: 250px;
-    background-color: grey;
+    background-color: rgb(98, 98, 179);
 }
 
 #h{
     width: 190px;
     height: 250px;
-    background-color: grey;
+    background-color: rgb(67, 71, 71);
 }
 
 #i{
     width: 760px;
     height: 150px;
-    background-color: grey;
+    background-color: rgb(132, 247, 147);
 }
 
-
-  
-       body {
-        text-align: center;
-    }    
-
-    aside {
-        float: left;
-        margin: 0;
-    }    
     
-    #large {
+#large {
         float: right;
-    }    
-    
-    footer{
-        float: right;        
-    }    
-    
-} 
+    }     
+
+}
 
