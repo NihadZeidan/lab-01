@@ -1,9 +1,22 @@
-@media (min-width: 480px) and (max-width: 768px) {
+@media (min-width:320px) and (max-width: 425px) {
+    header {
+        text-align: center;
+    }
+    body {
+        width: 320px;
+        height: auto;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}
+
+@media (min-width: 425px) and (max-width: 768px) {
     header {
         text-align: center;
     }
     body {
         width: 480px;
+        height: auto;
         margin-right: auto;
         margin-left: auto;
     }
@@ -15,6 +28,7 @@
     }
     body {
         width: 960px;
+        height: auto;
         margin-right: auto;
         margin-left: auto;
     }
